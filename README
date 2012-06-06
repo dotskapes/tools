@@ -1,5 +1,4 @@
-These tools are part of the dotSkapes Project at UW-Madison's Center for Sustainability and the Globl Environment.
-They are designed to run on the skapes research platform at http://www.skapes.org
+These tools are part of the dotSkapes Project. They are designed to run on the skapes research platform at http://www.skapes.org
 
 All tools are written in Python and R. Those with user interaction use a custom user_param for web interactivity. Most have user in the file name. To run then stand-alone, either:
 1) turn user_param into a function
